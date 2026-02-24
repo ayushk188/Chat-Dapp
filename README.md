@@ -111,8 +111,8 @@ npm install
 npm run dev
 
 # 👨‍💻 Author
-Mayank Sharma
-🐙 GitHub: https://github.com/MayankSharma-ops
+Ayush kamboj
+🐙 GitHub: https://github.com/ayushk188
 
 💼 Web3 / Full-Stack Developer
 
