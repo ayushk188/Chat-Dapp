@@ -98,7 +98,7 @@ npx hardhat run scripts/deploy.js
 ### 1. Clone Repository
 
 ```bash
-git clone https://github.com/MayankSharma-ops/BlockChain-ChatDApp.git
+git clone https://github.com/ayushk188/Chat-Dapp
 cd BlockChain-ChatDApp
 ```
 =======
